@@ -47,7 +47,7 @@ a:hover
 	{color: #cb8583;
 	}
 
-	img
+p > img
 {
 	border-top: 10px,solid,blue;
 	border-bottom: 10px,solid,blue;
