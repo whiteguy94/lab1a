@@ -46,4 +46,5 @@ a:visited
 a:hover 
 	{color: #cb8583;
 	font-size: 1.5em;
+	background-color: lightblue;
 	}
