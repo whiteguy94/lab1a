@@ -47,10 +47,9 @@ a:hover
 	{color: #cb8583;
 	}
 
-p > img
+p
 {
-	border-top: 10px,solid,blue;
-	border-bottom: 10px,solid,blue;
-	border-right: 10px,solid,blue;
-	border-left: 10px,solid,blue;
+	border-left: solid, blue, 3px;
+	border-right: solid, blue, 3px;
+	padding-left: 10%;
 }
