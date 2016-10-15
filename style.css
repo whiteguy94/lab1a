@@ -45,12 +45,5 @@ a:visited
 	}
 a:hover 
 	{color: #cb8583;
+	font-size: 1.5em;
 	}
-
-p img
-{
-	border-top: 2px,solid,black;
-	border-bottom: 2px,solid,black;
-	border-right: 2px,solid,black;
-	border-left: 2px,solid,black;
-}
