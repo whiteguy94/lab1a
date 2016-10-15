@@ -51,6 +51,6 @@ a:hover
 
 p
 {
-	border-top: solid, black, 3px;
-	border-bottom: solid, black, 3px;
+	padding-top: 3px;
+	padding-bottom: 3px;
 }
