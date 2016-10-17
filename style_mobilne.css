@@ -53,3 +53,13 @@ p
 	border-right: solid, blue, 3px;
 	padding-left: 10%;
 }
+
+@media screen and (max-width:400px)
+{
+	h1
+	{
+		padding-top:20%;
+		font-size:3em;
+		padding-bottom: 20%;
+	}
+}
